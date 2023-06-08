@@ -2,6 +2,11 @@
 
 Este projeto é uma implementação do descritor HoG, demonstrando como resultado cinco histogramas gerados a partir de cinco imagens que passaram pelo algoritmo.
 
+## Autor
+
+Nome: Othon Vieira Valentim
+RGM: 8113261916
+
 ## Instalação
 
 Para executar o projeto, certifique-se de ter um ambiente python para executar o código. Além disso, baixe as bibliotecas utilizadas pelo script.
